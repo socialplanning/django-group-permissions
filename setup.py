@@ -5,7 +5,7 @@ version = '0.1'
 
 setup(name='django-group-permissions',
       version=version,
-      description="Simple API for using Django Group memberships as permissions"
+      description="Simple API for using Django Group memberships as permissions",
       long_description="",
       classifiers=[
         "Development Status :: 4 - Beta",
