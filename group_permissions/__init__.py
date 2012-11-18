@@ -1,4 +1,3 @@
-from django.http import HttpResponseForbidden
 
 class LazyPermissions(object):
     def __init__(self, request):
