@@ -1,3 +1,5 @@
+from django.http import HttpResponseForbidden
+
 def authorize(permissions):
     if isinstance(permissions, basestring):
         permissions = [permissions]
